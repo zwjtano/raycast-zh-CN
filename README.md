@@ -2,7 +2,7 @@
 
 为 macOS 上的 **Raycast 2.4.1.0（Apple Silicon / arm64）** 提供简体中文界面的非官方汉化包。支持主界面、设置、部分提示，以及 36 个选定插件的商店文案和部分内部界面，附带安装与恢复原版工具。
 
-**[下载最新版汉化包](https://github.com/zwjtano/raycast-zh-CN/releases/latest)** · [安装教程](#安装教程) · [恢复原版](#恢复与更新) · [常见问题](#常见问题)
+**[下载最新版汉化包](https://github.com/zwjtano/raycast-zh-CN/releases/latest)** · [安装教程](#安装教程) · [恢复原版](#恢复与更新) · [插件列表](#插件汉化列表) · [常见问题](#常见问题)
 
 | 项目 | 支持情况 |
 | --- | --- |
@@ -43,6 +43,53 @@
 - 菜单栏保留英文，不含原生菜单实验补丁。
 
 191 项替换或新增资源。36 个插件没有逐一完成全部功能验收，未知文案、部分动态内容、README 和部分登录后页面可能保持英文，不宣称完整汉化。不启用未经复核的机翻草稿。
+
+## 插件汉化列表
+
+以下 36 个插件已纳入 r4 的翻译范围：商店介绍、命令名称与说明、偏好设置及部分内部界面。插件名称保留原文，**不代表所有页面、动态内容和功能均已完整汉化或实际验收**。
+
+前 30 项按 2026-09-17 的商店快照选取（下载量至少 100,000），后 6 项为补充适配；下载量不是实时数据。
+
+| 序号 | 插件（商店链接） | 纳入范围 |
+| --- | --- | --- |
+| 1 | [Kill Process](https://www.raycast.com/rolandleth/kill-process) | 热门插件 |
+| 2 | [Color Picker](https://www.raycast.com/thomas/color-picker) | 热门插件 |
+| 3 | [Google Chrome](https://www.raycast.com/Codely/google-chrome) | 热门插件 |
+| 4 | [Google Translate](https://www.raycast.com/gebeto/translate) | 热门插件 |
+| 5 | [Spotify Player](https://www.raycast.com/mattisssa/spotify-player) | 热门插件 |
+| 6 | [Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code) | 热门插件 |
+| 7 | [Linear](https://www.raycast.com/linear/linear) | 热门插件 |
+| 8 | [Slack](https://www.raycast.com/mommertf/slack) | 热门插件 |
+| 9 | [Brew](https://www.raycast.com/nhojb/brew) | 热门插件 |
+| 10 | [Notion](https://www.raycast.com/notion/notion) | 热门插件 |
+| 11 | [ChatGPT](https://www.raycast.com/abielzulio/chatgpt) | 热门插件 |
+| 12 | [Arc](https://www.raycast.com/the-browser-company/arc) | 热门插件 |
+| 13 | [1Password](https://www.raycast.com/khasbilegt/1password) | 热门插件 |
+| 14 | [GitHub](https://www.raycast.com/raycast/github) | 热门插件 |
+| 15 | [Speedtest](https://www.raycast.com/tonka3000/speedtest) | 热门插件 |
+| 16 | [Obsidian](https://www.raycast.com/marcjulian/obsidian) | 热门插件 |
+| 17 | [Apple Notes](https://www.raycast.com/raycast/apple-notes) | 热门插件 |
+| 18 | [Google Search](https://www.raycast.com/mblode/google-search) | 热门插件 |
+| 19 | [Coffee](https://www.raycast.com/mooxl/coffee) | 热门插件 |
+| 20 | [Video Downloader](https://www.raycast.com/vimtor/video-downloader) | 热门插件 |
+| 21 | [Timers](https://www.raycast.com/ThatNerd/timers) | 热门插件 |
+| 22 | [Apple Reminders](https://www.raycast.com/raycast/apple-reminders) | 热门插件 |
+| 23 | [CleanShot X](https://www.raycast.com/Aayush9029/cleanshotx) | 热门插件 |
+| 24 | [System Monitor](https://www.raycast.com/hossammourad/raycast-system-monitor) | 热门插件 |
+| 25 | [Zoom](https://www.raycast.com/raycast/zoom) | 热门插件 |
+| 26 | [Warp](https://www.raycast.com/warpdotdev/warp) | 热门插件 |
+| 27 | [Pomodoro](https://www.raycast.com/asubbotin/pomodoro) | 热门插件 |
+| 28 | [YouTube](https://www.raycast.com/tonka3000/youtube) | 热门插件 |
+| 29 | [Lorem Ipsum](https://www.raycast.com/AntonNiklasson/lorem-ipsum) | 热门插件 |
+| 30 | [GIF Search](https://www.raycast.com/josephschmitt/gif-search) | 热门插件 |
+| 31 | [Mole](https://www.raycast.com/jlrochin/mole) | 补充适配 |
+| 32 | [Dropover](https://www.raycast.com/jag-k/dropover) | 补充适配 |
+| 33 | [App Cleaner](https://www.raycast.com/dziad/appcleaner) | 补充适配 |
+| 34 | [Amphetamine](https://www.raycast.com/gstvds/amphetamine) | 补充适配 |
+| 35 | [TinyPNG](https://www.raycast.com/kawamataryo/tinypng) | 补充适配 |
+| 36 | [Music](https://www.raycast.com/fedevitaledev/music) | 补充适配 |
+
+已进行的实际界面核对包括：Google Translate 翻译功能；Mole、Dropover 的商店介绍与命令文案。其余插件尚未逐一完成全部功能的运行验收。
 
 ## 启动限制
 
