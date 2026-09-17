@@ -15,6 +15,24 @@
 
 本项目提供中文补丁，不包含 Raycast 应用安装程序，也不是官方中文版。
 
+## 汉化效果截图
+
+以下为 Raycast 2.4.1.0 arm64 安装 r4 补丁后的实际界面截图。
+
+### 主界面
+
+![Raycast 汉化主界面：中文搜索框和命令列表，Command 类型标签保留英文](docs/screenshots/main.jpg)
+
+### 通用设置
+
+![Raycast 简体中文设置：外观、界面大小及窗口模式](docs/screenshots/settings.jpg)
+
+### Mole 插件商店命令
+
+![Mole 商店详情汉化：系统状态、清理系统、优化系统和卸载应用的中文说明](docs/screenshots/mole-store.jpg)
+
+插件截图展示商店文案，不代表插件内部全部功能已完成汉化验收。
+
 ## 安装教程
 
 [下载汉化包 ZIP](https://github.com/zwjtano/raycast-zh-CN/releases/download/v2.4.1.0-r4/Raycast-2.4.1.0-arm64-r4.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-zh-CN/releases/download/v2.4.1.0-r4/Raycast-2.4.1.0-arm64-r4.zip.sha256)
