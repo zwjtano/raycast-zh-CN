@@ -1,6 +1,15 @@
-# Raycast 汉化包｜macOS 简体中文补丁
+# Raycast macOS 汉化｜简体中文界面与插件汉化包
 
 为 macOS 上的 **Raycast 2.4.1.0（Apple Silicon / arm64）** 提供简体中文界面的非官方汉化包。支持主界面、设置、部分提示，以及 36 个选定插件的商店文案和部分内部界面，附带安装与恢复原版工具。
+
+## 选择你的平台
+
+| 平台 | 项目与安装说明 | 汉化包下载 |
+| --- | --- | --- |
+| macOS · 2.4.1.0 Apple Silicon | [Raycast macOS 汉化](https://github.com/zwjtano/raycast-macos-zh-CN) | [macOS 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest) |
+| Windows · 2.4.0.0 x64 | [Raycast Windows 汉化](https://github.com/zwjtano/raycast-windows-zh-CN) | [Windows 下载](https://github.com/zwjtano/raycast-windows-zh-CN/releases) |
+
+Raycast macOS Simplified Chinese Localization。两个平台独立维护，请按系统和 Raycast 版本下载对应安装包。Windows 目前为预览版。
 
 **[下载最新版汉化包](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest)** · [安装教程](#安装教程) · [恢复原版](#恢复与更新) · [插件列表](#插件汉化列表) · [常见问题](#常见问题)
 
