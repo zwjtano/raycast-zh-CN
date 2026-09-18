@@ -2,7 +2,7 @@
 
 为 macOS 上的 **Raycast 2.4.1.0（Apple Silicon / arm64）** 提供简体中文界面的非官方汉化包。支持主界面、设置、部分提示，以及 36 个选定插件的商店文案和部分内部界面，附带安装与恢复原版工具。
 
-**[下载最新版汉化包](https://github.com/zwjtano/raycast-zh-CN/releases/latest)** · [安装教程](#安装教程) · [恢复原版](#恢复与更新) · [插件列表](#插件汉化列表) · [常见问题](#常见问题)
+**[下载最新版汉化包](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest)** · [安装教程](#安装教程) · [恢复原版](#恢复与更新) · [插件列表](#插件汉化列表) · [常见问题](#常见问题)
 
 | 项目 | 支持情况 |
 | --- | --- |
@@ -35,7 +35,7 @@
 
 ## 安装教程
 
-[下载汉化包 ZIP](https://github.com/zwjtano/raycast-zh-CN/releases/download/v2.4.1.0-r4/Raycast-2.4.1.0-arm64-r4.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-zh-CN/releases/download/v2.4.1.0-r4/Raycast-2.4.1.0-arm64-r4.zip.sha256)
+[下载汉化包 ZIP](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.4.1.0-r4/Raycast-2.4.1.0-arm64-r4.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.4.1.0-r4/Raycast-2.4.1.0-arm64-r4.zip.sha256)
 
 在 Release 页的 Assets 中选择上述 ZIP，完整解压。GitHub 自动生成的 Source code 不是安装包；不要单独下载 `.command` 文件。
 
@@ -151,7 +151,7 @@
 
 ### 如何反馈漏译或安装问题？
 
-通过 [GitHub Issues](https://github.com/zwjtano/raycast-zh-CN/issues) 提供 Raycast 版本、macOS 版本、芯片类型及问题截图。提交前遮住账户信息、密钥和个人内容。
+通过 [GitHub Issues](https://github.com/zwjtano/raycast-macos-zh-CN/issues) 提供 Raycast 版本、macOS 版本、芯片类型及问题截图。提交前遮住账户信息、密钥和个人内容。
 
 ## English overview
 
