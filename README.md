@@ -7,9 +7,9 @@
 | 平台 | 项目与安装说明 | 汉化包下载 |
 | --- | --- | --- |
 | macOS · 2.4.1.0 Apple Silicon | [Raycast macOS 汉化](https://github.com/zwjtano/raycast-macos-zh-CN) | [macOS 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest) |
-| Windows · 2.4.0.0 x64 | [Raycast Windows 汉化](https://github.com/zwjtano/raycast-windows-zh-CN) | [Windows 下载](https://github.com/zwjtano/raycast-windows-zh-CN/releases) |
+| Windows · 2.4.0.0 x64 | [Raycast Windows 汉化](https://github.com/zwjtano/raycast-windows-zh-CN) | [Windows 下载](https://github.com/zwjtano/raycast-windows-zh-CN/releases/latest) |
 
-Raycast macOS Simplified Chinese Localization。两个平台独立维护，请按系统和 Raycast 版本下载对应安装包。Windows 目前为预览版。
+Raycast macOS Simplified Chinese Localization。两个平台独立维护，请按系统和 Raycast 版本下载对应安装包。
 
 **[下载最新版汉化包](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest)** · [安装教程](#安装教程) · [恢复原版](#恢复与更新) · [插件列表](#插件汉化列表) · [常见问题](#常见问题)
 
